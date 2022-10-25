@@ -54,7 +54,7 @@ Maka pada saat kita run atau jalankan akan seperti ini :<br />
 
 ## Penutup
 Baiklah, mungkin sudah sampai disini. Untuk pengerjaan tugas 5 yang diberikan oleh Dosen Bahasa Pemrograman, yaitu Bapak Agung Nugroho, S.Kom, M.Kom. Jika ada kesalahan dan kekurangan dalam penyampaian diatas, saya memohon maaf yang sebesar-besarnya. Saya ucapkan Terimakasih....<br /><br />
-**Nama**  : Rhendy Diki Nugraha
-**NIM**   : 312210150
-**Kelas** : TI.22.A1
-**Dosen** : Agung Nugroho, S.Kom, M.Kom
+**Nama**  : Rhendy Diki Nugraha<br />
+**NIM**   : 312210150<br />
+**Kelas** : TI.22.A1<br />
+**Dosen** : Agung Nugroho, S.Kom, M.Kom<br />
